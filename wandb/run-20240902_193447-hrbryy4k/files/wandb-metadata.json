@@ -1,0 +1,127 @@
+{
+    "os": "Linux-6.8.0-41-generic-x86_64-with-glibc2.39",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-09-02T17:34:48.870449",
+    "startedAt": "2024-09-02T17:34:47.410310",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Rda1027/cnn-image-classification.git",
+        "commit": "6fa14ddee8343aa2cf8772a8ef35a2ef43c519fb"
+    },
+    "email": "valeriocosta296@gmail.com",
+    "root": "/media/rda1027/SharedResources/VSC_Documents/VSC_Documents_WSL/1-Year/IPCV/cnn-image-classification",
+    "host": "Ubuntu-RDA",
+    "username": "rda1027",
+    "executable": "/home/rda1027/miniconda3/envs/ai/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2103.14125,
+        "min": 400.0,
+        "max": 4829.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3068.886,
+            "min": 400.0,
+            "max": 4829.0
+        },
+        {
+            "current": 3069.134,
+            "min": 400.0,
+            "max": 4829.0
+        },
+        {
+            "current": 3069.155,
+            "min": 400.0,
+            "max": 4829.0
+        },
+        {
+            "current": 2337.515,
+            "min": 400.0,
+            "max": 4829.0
+        },
+        {
+            "current": 2045.193,
+            "min": 400.0,
+            "max": 4829.0
+        },
+        {
+            "current": 1499.302,
+            "min": 400.0,
+            "max": 4829.0
+        },
+        {
+            "current": 3057.955,
+            "min": 400.0,
+            "max": 4829.0
+        },
+        {
+            "current": 400.0,
+            "min": 400.0,
+            "max": 4829.0
+        },
+        {
+            "current": 1850.106,
+            "min": 400.0,
+            "max": 4829.0
+        },
+        {
+            "current": 400.0,
+            "min": 400.0,
+            "max": 4829.0
+        },
+        {
+            "current": 1360.945,
+            "min": 400.0,
+            "max": 4829.0
+        },
+        {
+            "current": 400.0,
+            "min": 400.0,
+            "max": 4829.0
+        },
+        {
+            "current": 2041.451,
+            "min": 400.0,
+            "max": 4829.0
+        },
+        {
+            "current": 3069.216,
+            "min": 400.0,
+            "max": 4829.0
+        },
+        {
+            "current": 2044.549,
+            "min": 400.0,
+            "max": 4829.0
+        },
+        {
+            "current": 400.0,
+            "min": 400.0,
+            "max": 4829.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 195.8027114868164,
+            "used": 58.63831329345703
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 13.335769653320312
+    }
+}
