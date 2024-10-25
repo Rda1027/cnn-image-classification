@@ -15,6 +15,13 @@ The second section of the exam intended to evaluate the performances we managed 
 
 ## Implementation Details
 
+The structures of the networks for the first section can be listed as:
+1. MoreFullyConnectedNet,
+2. NetWithoutBatchNorm,
+3. NetWithoutResidualBlock,
+4. NetWithoutDropout,
+5. GroceryConvNet.
+
 ## Collaborators
 
 - [Claudia Maiolino](https://github.com/jeanclaude8)
